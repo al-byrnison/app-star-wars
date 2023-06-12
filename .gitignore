@@ -1,0 +1,11 @@
+# Carpetas
+node_modules/
+dist/
+
+# Archivos
+.DS_Store
+Thumbs.db
+
+# Archivos con información sensible
+config.js
+.env
